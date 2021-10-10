@@ -10,7 +10,7 @@ titles_from_headings:
 
 title: "Capstone Project Proposal"       # Write the project title inside the quotes.
 description: "Trust me, it'll be cool!"  # Write the project description inside the quotes
-author:                                  # Don't do anything with this line!
+author: Sergio Valdez                    # Don't do anything with this line!
   name: "Java+Android Student"           # Write your name inside the quotes.
 
 # Do not modify the following line!
