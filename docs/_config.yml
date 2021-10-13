@@ -9,7 +9,7 @@ titles_from_headings:
 # Modify the contents below for the specific project.
 
 title: "Life Analytics App"       # Write the project title inside the quotes.
-description: "A app where you can input your daily routine data and recieve analytics of your own life!"  # Write the project description inside the quotes
+description: "A app where you can input your daily routine data and receive analytics of your own life!"  # Write the project description inside the quotes
 author:                                  # Don't do anything with this line!
   name: "Sergio Valdez"                  # Write your name inside the quotes.
 

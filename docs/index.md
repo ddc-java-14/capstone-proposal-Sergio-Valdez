@@ -8,19 +8,31 @@ For example, A athlete can set a goal to exercise 5 times a week for a year, and
 
 ## Intended users
 
-As a data enthusiast, I love the idea of keeping a record of my own life analytics and want an app that would simplify this curious data.
+* a Nerd who loves Data!
+> As a Data enthusiast, I want a app that create analytics of my own life, So i can observe my own curious data.
 
-As an Athlete, I want an app that keeps a sharp grade for my exercise routine and can also set and log alarms into one app seamlessly so that I can track my goals and have a comprehensive understanding of my routine
 
-As a busy worker, I want a record of my work efforts to see where my burnouts lay and where my vacations are best assigned
+* A Athlete!
+>As a athlete, I want an app that keeps a sharp grade for my exercise routine, so that I can track my goals and have a comprehensive understanding of my routine.
 
-As someone who loses track of time easily, I want an app that helps me manage my routine and time better so that I can keep focused and avoid unproductivity.
+
+* A Busy Worker!
+>As a busy worker, I want a record of my work efforts to see where my burnouts lay and where my vacations are best assigned
+
+
+* A Productive person!
+
+> As someone who loses track of time easily, I want an app that helps me manage my routine and time better so that I can keep focused and avoid unproductivity.
+
+A Medicinal user!
+
+> As someone who needs routine medicine, I want an app that helps keep track of my needed medications day to day, and to log what I have taken, so that I can live more comfortably
 
 ## Client component
  
 ### Functionality
 
-The UI is mostly going to consist of a home where you can input your daily data and see your pinned graphs. Also, Areas where you can go to see more analytics throughout different timespans. And Somewhere to go where you can set goals to be graded for throughout the upcoming years.
+The UI is mostly going to consist of a home where you can input your daily data and see your pinned graphs in one place. Also i will add tabs Areas where you can go to see more analytics throughout different timespans. And Somewhere to go where you can open a calender and set goals to be graded for throughout the upcoming years.
 
 ### Persistent data
 
@@ -28,14 +40,12 @@ I would hope to keep the app fully functional whilst offline, Retaining all the 
 
 ### Device/external services
 
-I would like the app to backup its essential data and goals online.
-
-I think the app can include bells and whistles that use online connections like weather data, daily encouraging messages/horoscopes    
+I think the app can include bells and whistles that use online connections like weather data, daily encouraging messages/horoscopes.
 ## Server component
 
 ### Functionality
 
-The server will mostly be handling syncing and and logins across devices.
+THe server will handle data processing and handling analytics, as well as provide syncing and managing logins across multiple devices.
 
 ### Persistent data
 
@@ -43,7 +53,7 @@ The server should keep a backup of all essential users data as soon as connectio
 
 ### External services
 
-TBD-The server likely will use external services that help to handle data and graphing but I cant think of any immediately
+TBD
 
 ## Stretch goals/possible enhancements 
 
